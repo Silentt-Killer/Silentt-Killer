@@ -1,16 +1,30 @@
-### Hi there 👋
+### About Me
+- [redowan.xyz](http://redowan.xyz/)
+- [linkedin/Md Redowanul Islam](https://www.linkedin.com/in/md-redowanul-islam]/)
+- [twitter/Md Redowanul Islam](https://twitter.com/redowan_17)
+- [facebook/Md Redowanul Islam](https://www.facebook.com/mdredowanulislam/)
 
-<!--
-**Silentt-Killer/Silentt-Killer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Silentt-Killer&show_icons=true&count_private=true&theme=dark" alt="Silentt-Killer" />
 
-Here are some ideas to get you started:
+### My Stacks
+<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515) <br/>
+<img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515) <br/>
+<!--<img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">!--><!--[badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Handles
+ [<img src="https://img.shields.io/badge/Md Redowanul Islam-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-redowanul-islam/)
+<!-- [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) -->
+ [<img src="https://img.shields.io/badge/Sillent_Killer-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Sillent_Killer) 
+<!-- [<img src="https://img.shields.io/badge/sjshohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/sjshohag) -->
+
+![Profile views](https://gpvc.arturio.dev/Silentt-Killer)
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silentt-Killer&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ 
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=Silentt-Killer&theme=react-dark)](https://github.com/Silentt-Killer/github-readme-activity-graph)
+ 
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentt-Killer&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Silentt-Killer/github-readme-stats)
