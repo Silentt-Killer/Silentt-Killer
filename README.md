@@ -1,7 +1,6 @@
 ### About Me
 - [redowan.xyz](http://redowan.xyz/)
 - [linkedin/Md Redowanul Islam](https://www.linkedin.com/in/md-redowanul-islam]/)
-- [twitter/Md Redowanul Islam](https://twitter.com/redowan_17)
 - [facebook/Md Redowanul Islam](https://www.facebook.com/mdredowanulislam/)
 
 ### My Github Stats
